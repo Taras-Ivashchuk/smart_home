@@ -1,0 +1,13 @@
+# Platform IO specific
+.pio/
+.cache/
+
+# VSCode specific
+.vscode/
+
+# Compiler specific
+compile_commands.json
+.clangd
+
+# Miscellaneous
+*.swp
